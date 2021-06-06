@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rorleth
-- 👀 I’m interested in learning new stacks and problem domains 
+- 👀 I’m interested in learning new stacks and problem domains - currently picking up Rust, looking inquisitively at Julia/F# and improving on Python.
 - 🌱 I've been mostly coding in a C#/ASP.NET/vue.js/MySQL/AWS stack lately, but have worked in C/C++ and a ton of other languages, down to assembly.
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me: rorleth@hotmail.com
